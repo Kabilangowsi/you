@@ -1,0 +1,24 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string"
+		},
+		"Lover of": {
+			"type": "string"
+		},
+		"From": {
+			"type": "string"
+		},
+		"id": {
+			"type": "integer"
+		}
+	},
+	"required": [
+		"name",
+		"Lover of",
+		"From",
+		"id"
+	]
+}
